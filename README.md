@@ -6,3 +6,13 @@ Birth asphyxia is a neonatal condition that is not only hard to identify, but is
 
 ### Code Directions
 Each Colab File represents a different aspect of our project. To run each collab file, simply run the cells sequentially. Issues that make be included involve improperly set filepaths. For these issues, please reset the filepath to the local directory where the Baby Chillanto Dataset is available
+
+### Acknowledgement
+
+In this project, we use The Baby Chillanto Data Base. 
+
+The Baby Chillanto Data Base is a property of the Instituto Nacional de Astrofisica Optica y Electronica – CONACYT, Mexico.
+
+We like to thank Dr. Carlos A. Reyes-Garcia, Dr. Emilio Arch-Tirado and his INR-Mexico group, and Dr. Edgar M. Garcia-Tamayo for their dedication of the collection of the Infant Cry database.
+c. And a citation to the article “Orion Fausto Reyes-Galaviz, Sergio Daniel Cano-Ortiz, Carlos Alberto Reyes-García. "Evolutionary-Neural System to Classify Infant Cry Units for Pathologies Identification in Recently Born Babies". Proceedings of the Special Session MICAI 2008, Pg. 330- 335. Eds. Alexander Gelbukh & Eduardo Morales. IEEE Computer
+Society. ISBN: 978-0-7695-3441-1.
